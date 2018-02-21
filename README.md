@@ -1,4 +1,8 @@
-# House Price LR_model
+# House Price Prediction - Linear Regression
+
+Team Members:
+
+Chris Dong, Liz Chen, Qian Li, Jing Song
 
 ## Goal
 
