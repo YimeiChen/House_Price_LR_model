@@ -2,7 +2,7 @@
 
 Team Members:
 
-Chris Dong, Liz Chen, Qian Li, Jing Song
+Chris Dong, Yimei Chen, Qian Li, Jing Song
 
 ## Goal
 
