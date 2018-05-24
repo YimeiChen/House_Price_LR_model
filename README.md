@@ -14,7 +14,7 @@ A major component of online companies like Redfin (https://www.redfin.com) and Z
 In particular, we will use regression analysis to complete two major tasks:
 
 
-- Explore the features of houses in in Ames, Iowa and build an explanatory regression model that describes which aspects of a home most strongly a↵ects its value.
+- Explore the features of houses in in Ames, Iowa and build an explanatory regression model that describes which aspects of a home most strongly affects its value.
 
 
 - Build a predictive model that most closely forecasts the value at which the house will be sold.
